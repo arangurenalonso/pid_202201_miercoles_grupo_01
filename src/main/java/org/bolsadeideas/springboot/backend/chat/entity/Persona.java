@@ -6,6 +6,6 @@ public class Persona {
 	public String apellido;
 	public String telefono;
 	public String dni;
-	public String email;
+	public String correo;
 
 }
